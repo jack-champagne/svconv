@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "svconv-champagne"
-version = "0.0.2"
+name = "svconv"
+version = "0.0.3"
 authors = [
   { name="Jack Champagne", email="jackchampagne.r@gmail.com" },
 ]
